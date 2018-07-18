@@ -1,1 +1,1 @@
-# Algorithm_part_1_Stanford
+# Algorithm_Stanford_Coursera
